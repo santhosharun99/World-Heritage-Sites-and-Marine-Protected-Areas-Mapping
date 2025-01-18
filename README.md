@@ -9,6 +9,16 @@ This project provides an interactive map of **Marine Protected Areas (MPA)** and
 - Distance Calculation: Distance between WHS and the nearest MPA is calculated.
 - Output: The interactive map is saved as an HTML file.
 
+Data Sources
+
+- UNESCO World Heritage Sites:
+    - Data for World Heritage Sites was downloaded from the official UNESCO website: 
+    [UNESCO World Heritage Sites Dataset](https://ihp-wins.unesco.org/dataset/unesco-world-heritage-sites)
+    
+- UK Marine Protected Areas:
+    - Marine Protected Areas data for the UK was sourced from the Joint Nature Conservation Committee (JNCC):
+    [JNCC Marine Protected Areas Dataset](https://hub.jncc.gov.uk/assets/598a60db-9323-4781-b5a8-dcf0ca3b29f9)
+
 ## Requirements
 
 The following Python packages are required to run this project:
